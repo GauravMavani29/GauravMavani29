@@ -9,8 +9,8 @@
 - Web API
 - Javascript
 - JQuery
-- NodeJS
-- ReactJS
+- Node JS
+- React JS
 
 
 <h4>Things got bugs, gonna smash them one by one :zap:</h4>
