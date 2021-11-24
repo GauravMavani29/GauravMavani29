@@ -1,36 +1,29 @@
-# <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Marcos!</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/SelinJodhani/SelinJodhani/master/name.svg" alt="Selin Jodhani" />
+</h1>
 
-**Welcome to my profile!**
+<!--[![Twitter Badge](https://img.shields.io/badge/-JodhaniSelin-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://twitter.com/JodhaniSelin)  [![Gmail Badge](https://img.shields.io/badge/-jodhaniselin.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodhaniselin.sj@gmail.com)](mailto:jodhaniselin.sj@.com)-->
 
-<img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"/> 
+<p> <b>Hi, I am Selin Jodhani! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <b></p>
 
-## ⚙️ My skills
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="200" width="200">
 
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=3d3919)
-![Python](https://img.shields.io/badge/python-%230095D5.svg?&style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=3280ad)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
-![Arch](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)
+<h3> Currently learning </h3>
 
-## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> Github stats
+- Python 🐍
+- Data Science ⚡
+- Web Scrapping
+- Django 
 
-<p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    /> <br>
-    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
-</p>
+<h4>Things got bugs, gonna smash them one by one :zap:</h4>
 
-## Contact me
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Connect with me:
 
-<a href="mailto:marcosvaas@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-JodhaniSelin-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://twitter.com/JodhaniSelin)  [![Gmail Badge](https://img.shields.io/badge/-jodhaniselin.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodhaniselin.sj@gmail.com)](mailto:jodhaniselin.sj@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-NoOneCanBeNoOne-0063ff?style=flat-square&logo=Telegram&logoColor=white&link=https://twitter.com/JodhaniSelin)](https://t.me/NoOneCanBeNoOne)
 
--------
-Credits: [marcos-inja](https://github.com/marcos-inja)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-Last Edited on: 26/10/2021
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=SelinJodhani&show_icons=true&theme=dark)
