@@ -25,4 +25,4 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=GauravMavani29&show_icons=true&theme=dark)
-![github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GauravMavani29&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GauravMavani29&theme=dark)
