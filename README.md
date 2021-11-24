@@ -11,7 +11,7 @@
 - JQuery
 - Node JS
 - React JS
-
+- CI/CD Pipeline
 
 <h4>Things got bugs, gonna smash them one by one :zap:</h4>
 
