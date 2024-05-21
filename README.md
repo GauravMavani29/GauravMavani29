@@ -5,7 +5,7 @@
 <h3> Currently Exploring </h3>
 
 - PHP ❤
-- laravel ⚡
+- Laravel ⚡
 - Web API
 - Javascript
 - JQuery
